@@ -12,6 +12,8 @@ Time spent: **X** hours spent in total
     - Tested in version:
     - Fixed in version: 
   - [ ] GIF Walkthrough:
+  
+  
   ![1](https://user-images.githubusercontent.com/24555370/31864921-e4a6ec18-b733-11e7-8d18-aa71ec06f50f.gif)
   - [ ] Steps to recreate: 
   - [ ] Affected source code:
