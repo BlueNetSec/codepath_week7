@@ -11,7 +11,7 @@ Time spent: **X** hours spent in total
     - Vulnerability types:
     - Tested in version:
     - Fixed in version: 
-  - [ ] GIF Walkthrough: https://github.com/huifenglan/codepath_week7/blob/master/1.gif
+  - [ ] GIF Walkthrough:
   ![1](https://user-images.githubusercontent.com/24555370/31864921-e4a6ec18-b733-11e7-8d18-aa71ec06f50f.gif)
   - [ ] Steps to recreate: 
   - [ ] Affected source code:
