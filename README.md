@@ -31,7 +31,7 @@ WordPress comments. The script is triggered when the comment is viewed.
     - Fixed in version:  4.7
   - [ ] GIF Walkthrough:
   
-  
+  ![2](https://user-images.githubusercontent.com/24555370/31865574-d5107ed0-b73e-11e7-9008-c330b7aedb60.gif)
   - [ ] Steps to recreate: 
       -  1. Edit a plugins name to <script>alert("XSS");</script>
       -  2. Whenever the Update page is opened, xss expolited script is run.
