@@ -24,4 +24,18 @@ WordPress comments. The script is triggered when the comment is viewed.
     - [Link 1](https://github.com/WordPress/WordPress/commit/c9e60dab176635d4bfaaf431c0ea891e4726d6e0)
     
     
+ 2. Vulnerability Name: Cross site scripting in update plugin  
+  - [ ] Summary:In WordPress 4.2, attackers can inject arbitrary web script or HTMLto update-core.php. 
+    - Vulnerability types:XSS
+    - Tested in version: 4.2
+    - Fixed in version:  4.7
+  - [ ] GIF Walkthrough:
+  
+  
+  - [ ] Steps to recreate: 
+      -  1. Edit a plugins name to <script>alert("XSS");</script>
+      -  2. Whenever the Update page is opened, xss expolited script is run.
+  - [ ] Affected source code:
+    - [Link 2](https://core.trac.wordpress.org/browser/trunk/src/wp-includes/shortcodes.php)
+    
 
